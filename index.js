@@ -29,10 +29,7 @@ bot.loadPlugin(cmd)
 
 bot.on('login',function(){
 	console.log("Logged In")
-	bot.chat("halo bang")
-	bot.chat("kalau chat ini spam, ignore aja ya :)")
-	bot.chat("instagram.com/hud0s")
-	bot.chat("Nyoba Afk 1 Hari")
+	bot.chat("halo bang, izin ngebot")
 	;
 });
 
